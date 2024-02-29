@@ -1,10 +1,9 @@
 operator:
-  address: 0x9e4f4b4782859d9dce2f6c2275270e50415ebcd1
-  earnings_receiver_address: 0x9e4f4b4782859d9dce2f6c2275270e50415ebcd1
-  delegation_approver_address: "0x0000000000000000000000000000000000000000"
-  staker_opt_out_window_blocks: 0
-  metadata_url: https://raw.githubusercontent.com/youngfortwo/eigenlayer/main/operator.yaml
-
+    address: 0x9e4f4b4782859d9dce2f6c2275270e50415ebcd1
+    earnings_receiver_address: 0x9e4f4b4782859d9dce2f6c2275270e50415ebcd1
+    delegation_approver_address: "0x0000000000000000000000000000000000000000"
+    staker_opt_out_window_blocks: 0
+    metadata_url: https://raw.githubusercontent.com/youngfortwo/eigenlayer/main/operator.yaml
 el_delegation_manager_address: 0x1b7b8F6b258f95Cf9596EabB9aa18B62940Eb0a8
 eth_rpc_url: https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161
 private_key_store_path: /root/.eigenlayer/operator_keys/ChrisyoungNode.ecdsa.key.json
